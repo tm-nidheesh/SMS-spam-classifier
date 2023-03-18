@@ -16,7 +16,7 @@ Common performance metrics for binary classification tasks like SMS spam classif
 
 Finally, the model can be deployed to classify new incoming email/SMS messages in real-time. 
 This might involve integrating the model into a mobile app or web service, or deploying it as a standalone API.
-I have used Streamlit for the the deployment purpose.
+I have used Streamlit for  the deployment purpose.
 
 
 
